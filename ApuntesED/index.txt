@@ -1,4 +1,5 @@
-Capítulo 0:
+Información del capítulo 0
+Fin Capitulo0
 1.Introduccion.
 2.Ejercicios de Creación.
 3.Ejercicios sobre Ramas
